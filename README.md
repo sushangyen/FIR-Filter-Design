@@ -1,0 +1,1 @@
+In this project, I used MATLAB functions to compute and ploted the spectrogram of a clean speech signal and its noise-corrupted version. I also designed FIR filters to remove the noise while preserving speech part of the noisy signal.
